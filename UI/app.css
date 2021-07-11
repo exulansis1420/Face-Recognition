@@ -1,0 +1,15 @@
+.card-wrapper {
+    margin: 5% 0;
+    
+  }
+  
+/* You can adjust the image size by increasing/decreasing the width, height */
+.custom-circle-image {
+  width: 13vw; /* note i used vw not px for better responsive */
+  height: 15vw;
+}
+
+.custom-circle-image img {
+  object-fit: cover;
+ 
+}
